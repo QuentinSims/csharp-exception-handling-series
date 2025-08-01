@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exception-handling-guide", "csharp-exception-handling-guide\csharp-exception-handling-guide.csproj", "{099947B4-BA4F-4498-9861-D6276D27655C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part-1-fundamentals", "part-1-fundamentals", "{6D66173C-BB40-44EF-A3ED-058F8BAB2D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099947B4-BA4F-4498-9861-D6276D27655C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099947B4-BA4F-4498-9861-D6276D27655C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099947B4-BA4F-4498-9861-D6276D27655C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099947B4-BA4F-4498-9861-D6276D27655C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{099947B4-BA4F-4498-9861-D6276D27655C} = {6D66173C-BB40-44EF-A3ED-058F8BAB2D5C}
+	EndGlobalSection
+EndGlobal
