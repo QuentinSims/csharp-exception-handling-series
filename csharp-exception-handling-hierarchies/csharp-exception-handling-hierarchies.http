@@ -1,0 +1,6 @@
+@csharp_exception_handling_hierarchies_HostAddress = http://localhost:5020
+
+GET {{csharp_exception_handling_hierarchies_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
