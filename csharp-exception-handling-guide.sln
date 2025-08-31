@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exception-handling-h
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part-2-exception-hierarchies", "part-2-exception-hierarchies", "{7D8AE851-8394-4AA3-9C4D-3B42530974E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exception-global-handling", "csharp-exception-global-handling\csharp-exception-global-handling.csproj", "{8B08C79A-9FF1-4645-8B34-78E10C6738E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part-4-csharp-exception-global-handling", "part-4-csharp-exception-global-handling", "{7C16865C-C451-4AC2-843C-12C10128DED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{6324A09C-B2C6-4586-80DF-B877295D0F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6324A09C-B2C6-4586-80DF-B877295D0F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6324A09C-B2C6-4586-80DF-B877295D0F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B08C79A-9FF1-4645-8B34-78E10C6738E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B08C79A-9FF1-4645-8B34-78E10C6738E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B08C79A-9FF1-4645-8B34-78E10C6738E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B08C79A-9FF1-4645-8B34-78E10C6738E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +40,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{099947B4-BA4F-4498-9861-D6276D27655C} = {6D66173C-BB40-44EF-A3ED-058F8BAB2D5C}
 		{6324A09C-B2C6-4586-80DF-B877295D0F5F} = {7D8AE851-8394-4AA3-9C4D-3B42530974E9}
+		{8B08C79A-9FF1-4645-8B34-78E10C6738E1} = {7C16865C-C451-4AC2-843C-12C10128DED3}
 	EndGlobalSection
 EndGlobal
